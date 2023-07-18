@@ -1,0 +1,27 @@
+#gameDiv{
+    font-style: italic;
+    border: 9px solid rgb(0, 0, 75);
+    padding: 50px;
+font-weight: bolder;
+text-align: center;
+background: url(rock-paper-scissors-neon-icons.jpg);
+width: 60%;
+height: 400px;
+letter-spacing: 1.9px;
+font-size: large;
+}
+h1{
+    color: white;
+    padding: 20px;
+}
+button{
+    width: 150px;
+    height: 60px;
+   margin: 25px;
+   color: white;
+   background-color: goldenrod;
+   font-size: x-large;
+   padding: 5px 10px;
+   border: 2px solid white;
+   border-radius: 25px;
+}
